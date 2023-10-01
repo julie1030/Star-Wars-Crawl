@@ -1,7 +1,12 @@
+body {
+    background-color: black;
+    color: antiquewhite;
+    padding: 0;
+    overflow: hidden;
+}
 
 /*  distinguer le fond et le texte défilant */
 /* créer une boite trapèze pour y afficher le texte*/
 /* faire en sorte que la taille du texte s'adapte à la largeur de la boite */
 /* trouver une image et comment l'insérer en fond de body */
 /* trouver une musique */
-/* choisir un texte */
