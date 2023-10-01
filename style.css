@@ -15,3 +15,15 @@ trouver la font-family de star wars (première phrase puis titre et texte qui d�
 rendre la page responsive
 ajouter une musique
 */
+
+
+
+/*ajout du background étoilé*/
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url("images/Earth_and_Moon_seen_from_183_million_kilometers_by_MESSENGER.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
