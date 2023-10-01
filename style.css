@@ -4,12 +4,15 @@ body {
     padding: 0;
     overflow: hidden;
     text-align: center;
+    display: flex;
+    justify-content: center;
 }
 
 
 /*liste des tâches: 
-trouver l'image du fond: ciel étoilé
-trouver l'animation de défilement à appliquer au texte
+trouver l'animation de défilement à appliquer au texte: 
+    mettre le scrawl
+    avec "perspective" en px pour l'inclinaison
 trouver la font-family de star wars (première phrase puis titre et texte qui défilent) 
 rendre la page responsive
 ajouter une musique
