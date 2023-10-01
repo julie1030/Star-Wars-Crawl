@@ -1,12 +1,15 @@
 body {
     background-color: black;
-    color: antiquewhite;
+    color: yellow;
     padding: 0;
     overflow: hidden;
 }
 
-/*  distinguer le fond et le texte défilant */
-/* créer une boite trapèze pour y afficher le texte*/
-/* faire en sorte que la taille du texte s'adapte à la largeur de la boite */
-/* trouver une image et comment l'insérer en fond de body */
-/* trouver une musique */
+
+/*liste des tâches: 
+trouver l'image du fond: ciel étoilé
+trouver l'animation de défilement à appliquer au texte
+trouver la font-family de star wars (première phrase puis titre et texte qui défilent) 
+rendre la page responsive
+ajouter une musique
+*/
